@@ -1,0 +1,10 @@
+{
+  "name" : "node1"
+  "ssid" : "Trnspndr",
+  "pass" : "hwasong5",
+  "broker" : "192.168.100.70",
+  "dht_pin" : 5,
+  "relay_pin" : 2,
+  "period" : 3
+}
+
